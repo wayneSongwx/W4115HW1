@@ -1,0 +1,6 @@
+Keyword('var') at 1:1
+Identifier('y') at 1:5
+AssignOp(':=') at 1:7
+Integer('20') at 1:10
+Delimiter(';') at 1:12
+EOF('') at 1:12

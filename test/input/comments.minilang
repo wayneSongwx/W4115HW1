@@ -1,0 +1,7 @@
+# hey a comment
+var y := 20;
+# hey another comment
+var z := 30;
+let var x: int := 10; # whoa inline comment
+var a := 30;
+# yet another comment
